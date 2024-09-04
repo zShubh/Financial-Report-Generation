@@ -11,7 +11,7 @@ Tools & Library Used
 <img src="images/azure-logo.jpg" alt="azure-logo" width="170"/>  
 
 Project Result
-Click here to view the full code
+[Click here to view the full code](https://github.com/zShubh/Financial-Report-Generation/blob/main/SQLQuery_finance.sql)
 
 A. Profit & Loss Statement
 Create pivot table report of profit and loss for 2018, 2019, 2020
