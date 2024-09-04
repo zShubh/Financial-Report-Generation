@@ -63,3 +63,4 @@ Design SQL queries to generate accurate and timely financial reports including P
    
 **If we compare SQL Query to Cash Flow Excel result**
 <img src="./image/excel_CF.png" alt="" width = "450"/>
+
