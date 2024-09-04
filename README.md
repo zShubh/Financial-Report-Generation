@@ -9,7 +9,7 @@ Tools & Library Used
 <img src="./image/azure-logo.jpg" alt="azure-logo" width="170"/>
 
 Project Result
-[Click here to get full code]()
+[Click here to get full code](https://github.com/zShubh/Financial-Report-Generation/blob/main/SQLQuery_finance.sql)
 
 
 ### A. Profit & Loss Statement
