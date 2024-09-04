@@ -1,16 +1,21 @@
-# Financial-Report-Generation
-Overview:
-The project involves developing a comprehensive financial reporting and analysis system using SQL (Structured Query Language). The system integrates five key datasets—general ledger, charts of accounts, territory, calendar, and cash flow—to generate essential financial reports, including Profit and Loss (P&L) statements, Balance Sheets, and Cash Flow statements.
+# Financial Reporting and Analysis System using SQL
 
-Project Goal
-Design and implement SQL queries to produce accurate and timely financial reports, including Profit and Loss statements, Balance Sheets, and Cash Flow statements.
+## Project Description
 
-Tools & Library Used
-<img src="./image/azure-logo.jpg" alt="azure-logo" width="170"/>
+**Overview :**  
+The project aims to develop a comprehensive financial reporting and analysis system using SQL (Structured Query Language). The system will utilize five key datasets: general ledger, charts of accounts, territory, calendar, and cash flow. By leveraging these datasets, the system will generate essential financial reports including Profit and Loss (P&L) statements, Balance Sheets, and Cash Flow statements.
 
-Project Result
-[Click here to get full code](https://github.com/zShubh/Financial-Report-Generation/blob/main/SQLQuery_finance.sql)
+## Project Goal
 
+Design SQL queries to generate accurate and timely financial reports including Profit and Loss statements, Balance Sheets, and Cash Flow statements.
+
+## Tools & Library Used
+
+[<img src="./image/azure-logo.jpg" alt="python-logo" width="170"/>](https://azure.microsoft.com/en-us/products/data-studio/) &nbsp;
+
+## Project Result
+
+[Click here to get full code](https://github.com/nickenshidqia/Online_Movie_Rental_Shop_Data_Analysis_SQL_Project/blob/9ab5a4d2b8f69a7341c924b5952b23026e0bfff8/SQL%20Project%20Greencycle%20Movie%20Rental%20Company.sql)
 
 ### A. Profit & Loss Statement
 
